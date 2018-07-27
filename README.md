@@ -1,4 +1,2 @@
 # node-weatherApp
-Node application to learn asynchronous http requests
-
-Node application to learn async tasks with callbacks and promises
+Node application to learn asynchronous http requests with callbacks and promises
